@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alumno/Documents/GitHub/ActividadProgramacion1Mayco/Content/Mapa1.umap",
+				"C:/Users/Alumno/Documents/GitHub/ActividadProgramacion1Mayco/Content/Blueprints/BP_Arquero.uasset"
+			]
+		}
+	]
+}
